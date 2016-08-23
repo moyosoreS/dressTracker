@@ -1,0 +1,11 @@
+<template name="nav">
+{{#if currentUser}}
+    <a class="user-link" href="{{pathFor route='tops' username=currentUser.username}}">
+          Tops
+    </a>
+    <br><br>
+    <a class="user-link" href="{{pathFor route='pants' username=currentUser.username}}">
+          Pants
+    </a>
+{{/if}}
+</template>
