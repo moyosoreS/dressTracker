@@ -6,7 +6,7 @@ A simple application, demonstrating file uploads to Amazon S3 in Meteor.  Compan
 
 This project has been modified.
 
-s
+
 
 RUN CONFIG- clone repository, ensure Meteor is installed (install here https://www.meteor.com/install), Node.js also should be installed on OS 
 
